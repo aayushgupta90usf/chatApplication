@@ -1,2 +1,2 @@
 # chatApplication
-A simple chat application using raw JavaScript, HTML and CSS.
+A simple chat application using raw JavaScript, HTML, CSS and Firebase.
